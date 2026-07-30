@@ -1,4 +1,4 @@
 .cache/
 .pycache/
-.DS_Store/
+.DS_Store
 .mypycache/
